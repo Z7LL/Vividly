@@ -28,8 +28,7 @@ Vavidly is a lightweight PC optimization tool designed to enhance your system’
 ## Installation
 
 ### Download Vavidly:
-1. **Prebuilt Installer:** Download the latest version of Vavidly from the [Release Page](https://link.to/releases).
-2. **Manual Installation:** If you prefer to install manually, you can download the installer directly and run it.
+1. **Installer:** Download the latest version of Vavidly from the [Release Page](https://github.com/Z7LL/Vividly/releases/download/1.0/Vividly.Setup.exe).
 
 ### System Requirements:
 - **OS:** Windows 10/11
@@ -40,8 +39,8 @@ Vavidly is a lightweight PC optimization tool designed to enhance your system’
 
 ### **Running Vavidly:**
 1. After installation, launch **Vavidly**.
-2. The main interface will present you with a dashboard to manage and apply various optimizations.
-3. Choose the optimizations you want to apply and click **Optimize**.
+2. The main interface will present you with a Warning to create a Restore point before preceding to manage and apply various optimizations.
+3. After creating the restore point,A new interface will pop up with a **Optimize** button click at and the optimizations will start.
 4. Some optimizations may require a system restart to take full effect.
 
 ### **Reverting Changes:**
@@ -90,7 +89,7 @@ Vavidly is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- Thanks to [Windows Package Manager](https://github.com/microsoft/winget-cli) for making it easy to distribute Vavidly via `winget`.
+- Thanks to [Windows Package Manager](https://github.com/microsoft/winget-cli) for making it easy to distribute Vavidly via `winget install Vavidly`.
 - Special thanks to the contributors and the open-source community for helping improve the tool.
 
 ## Contact
