@@ -89,7 +89,7 @@ Vavidly is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- Thanks to [Windows Package Manager](https://github.com/microsoft/winget-cli) for making it easy to distribute Vavidly via `winget install Vavidly`.
+- Thanks to [Windows Package Manager](https://github.com/microsoft/winget-cli) for making it easy to distribute Vavidly via `winget install Vividly`.
 - Special thanks to the contributors and the open-source community for helping improve the tool.
 
 ## Contact
