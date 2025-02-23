@@ -1,7 +1,3 @@
-Here’s a full README template for your GitHub page for **Vavidly**. Feel free to adjust and fill in any specific details that you need.
-
----
-
 # Vavidly – PC Optimization Tool
 
 ![Vavidly](https://raw.githubusercontent.com/Z7LL/Vividly/refs/heads/main/Logos/LOGO.png) *(replace with actual logo if available)*
@@ -104,7 +100,3 @@ For any questions, suggestions, or issues, feel free to open an issue on the [Gi
 You can also reach out to us directly at:  
 **Email:** m9arwan9999@gmail.com 
 **Website:** [https://z70l.itch.io/vividly](https://z70l.itch.io/vividly)
-
----
-
-Feel free to replace the placeholders (like the logo URL, screenshots, and links) with actual links. This will give users a comprehensive guide for downloading, using, and contributing to **Vavidly**. Let me know if you want to modify any sections!
