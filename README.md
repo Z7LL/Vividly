@@ -1,6 +1,6 @@
 # Vavidly – PC Optimization Tool
 
-![Vavidly](https://raw.githubusercontent.com/Z7LL/Vividly/refs/heads/main/Logos/LOGO.png) *(replace with actual logo if available)*
+![Vavidly](https://raw.githubusercontent.com/Z7LL/Vividly/refs/heads/main/Logos/LOGO.png)
 
 Vavidly is a lightweight PC optimization tool designed to enhance your system’s performance with minimal effort. Featuring a beautiful **Japanese sakura theme**, Vavidly provides a series of optimizations for your PC’s background tasks, services, temporary files, gaming performance, and much more. It aims to reduce system overhead, improve responsiveness, and boost gaming FPS.
 
